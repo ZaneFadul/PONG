@@ -3,4 +3,4 @@ TWO,3,2
 THR,2,3
 FOR,4,4
 FIV,3,5
-SIX,2,6
+SIX,2,5
